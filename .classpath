@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/resorurces"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/javax.inject.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-aop-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-aspects-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-beans-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-build-src-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-context-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-context-support-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-core-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-expression-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-framework-bom-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-instrument-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-instrument-tomcat-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-jdbc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-jms-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-messaging-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-orm-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-oxm-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-test-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-tx-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-web-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-webmvc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-webmvc-portlet-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/anaisabelvegascaceres/Documents/Atrium/Documentacion Nueva Master/Documentacion Master Avanzado/LibreriasSpring4 release/spring-websocket-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
